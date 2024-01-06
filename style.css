@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(194, 194, 194);
+}
+h1{
+    background-color: rgb(245, 235, 235);
+    color: rgb(119, 119, 119);
+    font-size: 300%;
+}
+p{
+    color: rgb(255, 243, 243);
+    font-size: larger;
+    margin: 0.5%;
+}
+.one{
+    background-color: rgb(43, 185, 255);
+}
+.two{
+    background-color: rgb(43, 195, 255);
+}
+.three{
+    background-color: rgb(43, 205, 255);
+}
+.four{
+    background-color: rgb(43, 215, 255);
+}
+.five{
+    background-color: rgb(83, 225, 255);
+}
+.six{
+    background-color: rgb(143, 216, 218);
+}
+.seven{
+    background-color: rgb(164, 229, 231);
+}
+.eight{
+    background-color: rgb(28, 223, 102);
+}
+.nine{
+    background-color: rgb(247, 186, 221);
+}
+.ten{
+    background-color: rgb(253, 162, 215);
+}
+.eleven{
+    background-color: rgb(248, 138, 202);
+}
+.twelve{
+    background-color: rgb(250, 120, 196);
+}
+.thirteen{
+    background-color: rgb(248, 101, 187);
+}
+.fourteen{
+    background-color: rgb(253, 78, 180);
+}
+.fifteen{
+    background-color: rgb(228, 43, 151);
+}
